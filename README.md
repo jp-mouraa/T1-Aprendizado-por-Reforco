@@ -13,3 +13,7 @@ O objetivo deste trabalho é compreender o funcionamento e a aplicação do Mét
 - Como interpretar os resultados obtidos pelo algoritmo.
 - Discussão sobre a convergência das políticas e funções de valor.
 - Como o número de simulações afeta a precisão dos resultados.
+
+## Como rodar
+- Crie um ambiente .venv e execute **$ pip install -r /path/to/requirements.txt**
+- Execute **T1.ipynb**
